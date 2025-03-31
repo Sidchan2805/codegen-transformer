@@ -28,9 +28,13 @@ This project revolves around a carefully designed transformer-based Python code-
 ## Performance Results
 Metric     Score(Approx)
 ROUGE-1    33%
+
 ROUGE-2    13%
+
 ROUGE-L    30%
+
 BLEU       11%
+
 ChrF       48%
 
 ---
